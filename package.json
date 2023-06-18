@@ -1,0 +1,30 @@
+{
+  "name": "@fraytools/types-plugin-example",
+  "version": "0.1.0",
+  "description": "Example code for a FrayTools type definition plugin.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrayTools/types-plugin-example.git"
+  },
+  "contributors": [
+    "Greg McLeod"
+  ],
+  "author": "Greg McLeod",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@babel/core": "7.22.5",
+    "@babel/preset-react": "7.22.5",
+    "@fraytools/plugin-core": "0.1.0",
+    "babel-loader": "9.1.2",
+    "copy-webpack-plugin": "11.0.0",
+    "html-webpack-plugin": "5.5.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "webpack": "5.88.0",
+    "webpack-cli": "5.1.4"
+  }
+}

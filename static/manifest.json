@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "type": "TypeDefinitionPlugin",
+  "id": "my.example.type.definition.plugin",
+  "name": "My Example Type Definition plugin",
+  "description": "Example of a Type Definition plugin."
+}
